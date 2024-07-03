@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Zhouyang Jin**, a first-year Ph.D. student at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, majoring in Computer Science and Technology. My research interests are primarily focused on **large language models (LLMs)**, with a particular emphasis on **Retrieval-Augmented Generation (RAG)**, **recommendation systems**, graph  network analysis, and natural language processing (NLP). I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
+I'm **Zhouyang Jin**, a first-year Ph.D. student at the School of Electronic Information and Electrical Engineering, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. My research interests are primarily focused on **large language models (LLMs)**, with a particular emphasis on **Retrieval-Augmented Generation (RAG)**, **recommendation systems**, **graph  network analysis**, and **natural language processing (NLP)**. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
 
 🔭 Current Work
 
